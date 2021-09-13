@@ -1,0 +1,16 @@
+{
+  "name": "canvas-node-express-typescript-server",
+  "version": "1.0.0",
+  "description": "TODO Replace me with a nice description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "typescript"
+  ],
+  "author": "Sandy Chuchuca <sandy.chuchuca.tech@gmail.com>",
+  "license": "ISC"
+}
